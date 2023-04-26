@@ -18,7 +18,7 @@ npm install --save-dev mocha
 
 ## Tests
 
-You must run the tests by typing mocha tests.js in terminal
+You must run the tests by typing "mocha tests.js" in terminal (without "")
 
 ## Support this project
 

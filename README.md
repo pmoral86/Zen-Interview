@@ -13,7 +13,7 @@ It is required to have Node.js and npm installed to run this project.
 Run `npm install` (or `npm i` for the short version) to install the dev dependencies.
 Assure that you have Mocha and Chai dependencies installed.
 
-npm install --save-dev chai
+npm install --save-dev chai </br>
 npm install --save-dev mocha
 
 ## Tests
